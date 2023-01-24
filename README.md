@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Software develop, AI, Machine Learning
 - 🌱 I’m currently learning **Java, C/C++, Python Programming**
-- 📫 How to reach me alsgh1125@gmail.com
+- 📫 How to reach me minhub6@gmail.com
 <br/>
 
 If you want to contact me, please leave me a message. Thank you!
