@@ -2,7 +2,7 @@
  I'm Minho Kim from South Korea. <br/><br/>
 
 - 👀 I’m interested in Software develop, AI, Machine Learning
-- 🌱 I’m currently learning **Java, C/C++, Python Programming**
+- 🌱 I’m currently learning **Python, Computer Vision, ML & DL, Pytorch ...**
 - 📫 How to reach me minhub6@gmail.com
 <br/>
 
