@@ -45,8 +45,9 @@ I'm Minho Kim from South Korea. <br/>
 <br>
 
 ### 🔥 My Stats
-![minhub7's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhub7&show_icons=true)
-<br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=minhub7&show_icons=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhub7&layout=compact) -->
+<br>
 
 If you want to contact me, please leave me a message. Thank you!
 
