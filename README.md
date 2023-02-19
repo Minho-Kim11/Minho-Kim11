@@ -21,8 +21,8 @@
 ## Hi, there 👋
 I'm Minho Kim from South Korea. <br/>
 - 🧑‍💻 I'm working as a _**software & deep learning engineer**_ in the field of computer vision.
-- ✨ I’m interested in writing clean code and good cooperation.
-- ✍️ I’m currently learning _**object detection, person re-identification, Pytorch & pytorch-lightning ...**_
+- ✨ I’m interested in _**writing clean code**_ and _**good cooperation**_.
+- ✍️ I’m currently learning _**object detection, person re-identification, Big data analytics, Pytorch-lightning ...**_
 - 📫 How to reach me **minhub6@gmail.com**
 <br>
 
@@ -33,10 +33,10 @@ I'm Minho Kim from South Korea. <br/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="Opencv" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Firebase" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
