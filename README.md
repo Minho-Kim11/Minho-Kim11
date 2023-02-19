@@ -19,7 +19,7 @@
 
 
 ## Hi, there 👋
-I'm Deep learning engineer from South Korea. <br/>
+I'm Minho Kim from South Korea. <br/>
 - 🧑‍💻 I'm working as a _**software & deep learning engineer**_ in the field of computer vision.
 - 👀 I’m interested in writing clean code and good cooperation.
 - 🖋️ I’m currently learning _**object detection, person re-identification, Pytorch & pytorch-lightning ...**_
