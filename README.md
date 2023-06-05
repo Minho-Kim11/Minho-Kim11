@@ -18,7 +18,7 @@
 </div>
 
 
-## Hi, there 👋
+## Hello, World! 👋
 I'm Minho Kim from South Korea. <br/>
 - 🧑‍💻 I'm working as a _**software & deep learning engineer**_ in the field of computer vision.
 - ✨ I’m interested in _**writing clean code**_ and _**good cooperation**_.
