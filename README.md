@@ -2,16 +2,16 @@
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
  
  <div id="badges">
-  <a href="https://minhub7.github.io/">
+  <a href="https://minorosoft.github.io/">
     <img src="https://img.shields.io/badge/Blog-575757?logo=github&logoColor=white&style=for-the-badge" alt="Blog Badge"/>
   </a>
-  <a href="https://linkedin.com/in/minhub7/">
+  <a href="https://linkedin.com/in/minorosoft/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/mainho._/">
     <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
-  <a href="https://minhub7.notion.site/f56e25e85e994efe940686b6d8af9ce5">
+  <a href="https://minorosoft.notion.site/f56e25e85e994efe940686b6d8af9ce5">
     <img src="https://img.shields.io/badge/Portfolio-yellow?logo=notion&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
   </a>
  </div>
@@ -23,7 +23,7 @@ I'm Minho Kim from South Korea. <br/>
 - 🧑‍💻 I'm working as a _**software & deep learning engineer**_ in the field of computer vision.
 - ✨ I’m interested in _**writing clean code**_ and _**good cooperation**_.
 - ✍️ I’m currently learning _**object detection, person re-identification, Big data analytics, Pytorch-lightning ...**_
-- 📫 How to reach me **minhub6@gmail.com**
+- 📫 How to reach me **minorosoft@gmail.com**
 <br>
 
 ### 🛠 Languages & Tools
@@ -45,12 +45,12 @@ I'm Minho Kim from South Korea. <br/>
 <br>
 
 ### 🔥 My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=minhub7&show_icons=true)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhub7&layout=compact) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=minorosoft&show_icons=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minorosoft&layout=compact) -->
 <br>
 
 If you want to contact me, please leave me a message. Thank you!
 
 <div id="hits" align="right">
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminhub7%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminorosoft%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </div>
