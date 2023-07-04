@@ -45,8 +45,7 @@ I'm Minho Kim from South Korea. <br/>
 <br>
 
 ### 🔥 My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=minorosoft&show_icons=true)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minorosoft&layout=compact) -->
+![Mino's GitHub stats](https://github-readme-stats.vercel.app/api?username=minorosoft&show_icons=true)
 <br>
 
 If you want to contact me, please leave me a message. Thank you!
