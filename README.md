@@ -5,7 +5,7 @@
   <a href="https://minocraft.github.io/">
     <img src="https://img.shields.io/badge/Blog-575757?logo=github&logoColor=white&style=for-the-badge" alt="Blog Badge"/>
   </a>
-  <a href="https://linkedin.com/in/minocrafft/">
+  <a href="https://linkedin.com/in/minocraft/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/mainho._/">
