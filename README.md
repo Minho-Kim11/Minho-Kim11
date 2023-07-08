@@ -5,7 +5,7 @@
   <a href="https://minocraft.github.io/">
     <img src="https://img.shields.io/badge/Blog-575757?logo=github&logoColor=white&style=for-the-badge" alt="Blog Badge"/>
   </a>
-  <a href="https://linkedin.com/in/minocraft/">
+  <a href="https://linkedin.com/in/minocrafft/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/mainho._/">
@@ -23,7 +23,7 @@ I'm Minho Kim from South Korea. <br/>
 - 🧑‍💻 I'm working as a _**software & deep learning engineer**_ in the field of computer vision.
 - ✨ I’m interested in _**writing clean code**_ and _**good cooperation**_.
 - ✍️ I’m currently learning _**object detection, person re-identification, Big data analytics, Pytorch-lightning ...**_
-- 📫 How to reach me **minocraft@gmail.com**
+- 📫 How to reach me **minocrafft@gmail.com**
 <br>
 
 ### 🛠 Languages & Tools
@@ -45,11 +45,11 @@ I'm Minho Kim from South Korea. <br/>
 <br>
 
 ### 🔥 My Stats
-![Mino's GitHub stats](https://github-readme-stats.vercel.app/api?username=minocraft&show_icons=true)
+![Mino's GitHub stats](https://github-readme-stats.vercel.app/api?username=minocrafft&show_icons=true)
 <br>
 
 If you want to contact me, please leave me a message. Thank you!
 
 <div id="hits" align="right">
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminocraft%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminocrafft%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </div>
