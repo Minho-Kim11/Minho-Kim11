@@ -48,9 +48,9 @@
 ## 🛠 Stacks
 | Type           | Items                                                                                                                                                                                       |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| OS             | ![linux][linux] ![ubuntu][ubuntu] ![redhat][redhat]                                                                                                                                         |
+| OS             | ![linux][linux] / ![ubuntu][ubuntu] ![redhat][redhat]                                                                                                                                         |
 | Languages      | ![python][python] ![c++][cplusplus]                                                                                                                                                         |
-| Frameworks     | ![numpy][numpy] ![pandas][pandas] ![scikitlearn][scikitlearn] ![opencv][opencv] <br>![pytorch][pytorch] ![lightning][lightning] ![weightsandbiases][weightsandbiases] <br>![django][django] |
+| Frameworks     | ![pytorch][pytorch] ![lightning][lightning] ![opencv][opencv] <br>![weightsandbiases][weightsandbiases] ![django][django] |
 | DevOps & Tools | ![git][git] ![github][github] ![githubactions][githubactions] <br>![docker][docker] ![neovim][neovim] ![notion][notion]                                                                     |
 | DBMS           | ![mysql][mysql] ![postgresql][postgresql]                                                                                                                                                   |
 
@@ -97,7 +97,9 @@ Thank you!
 [notion]: https://img.shields.io/badge/notion-778899.svg?&style=for-the-badge&logo=notion&logoColor=white
 [mysql]: https://img.shields.io/badge/mysql-889AAA.svg?&style=for-the-badge&logo=mysql&logoColor=white
 [postgresql]: https://img.shields.io/badge/postgresql-889AAA.svg?&style=for-the-badge&logo=postgresql&logoColor=white
+
+<!-- Links -->
 [ainalyst]: https://github.com/minocrafft/Ainalyst
 [ainalyst-url]: https://www.youtube.com/watch?v=au8-itQ0f7I&ab_channel=KB%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89FutureFinanceA.I.Challenge
-[CodeSimilarityDetection]: https://github.com/minocrafft/Ainalyst](https://github.com/minocrafft/ML-Contest/tree/main/CodeSimilarityDetection
+[CodeSimilarityDetection]: https://github.com/minocrafft/ML-Contest/tree/main/CodeSimilarityDetection
 [CodeSimilarityDetection-url]: https://dacon.io/competitions/official/235900/overview/description
