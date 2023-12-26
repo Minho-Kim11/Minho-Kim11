@@ -46,13 +46,13 @@
 
 
 ## 🛠 Stacks
-| Type           | Items                                                                                                                                                                                       |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| OS             | ![linux][linux] / ![ubuntu][ubuntu] ![redhat][redhat]                                                                                                                                         |
-| Languages      | ![python][python] ![c++][cplusplus]                                                                                                                                                         |
-| Frameworks     | ![pytorch][pytorch] ![lightning][lightning] ![opencv][opencv] <br>![weightsandbiases][weightsandbiases] ![django][django] |
-| DevOps & Tools | ![git][git] ![github][github] ![githubactions][githubactions] <br>![docker][docker] ![neovim][neovim] ![notion][notion]                                                                     |
-| DBMS           | ![mysql][mysql] ![postgresql][postgresql]                                                                                                                                                   |
+| Type           | Items                                                                                                                   |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| OS             | ![linux][linux] / ![ubuntu][ubuntu] ![redhat][redhat]                                                                   |
+| Languages      | ![python][python] ![c++][cplusplus]                                                                                     |
+| Frameworks     | ![pytorch][pytorch] ![lightning][lightning] ![opencv][opencv] ![django][django]                                         |
+| DevOps & Tools | ![git][git] ![github][github] ![githubactions][githubactions] ![docker][docker] <br>![neovim][neovim] ![notion][notion] |
+| DBMS           | ![mysql][mysql] ![postgresql][postgresql]                                                                               |
 
 <br>
 
